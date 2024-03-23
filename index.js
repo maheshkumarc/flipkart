@@ -1,3 +1,4 @@
 export default function Index(){
-  console.log('New to Git');
+  console.log('New to Git changed now');
+  console.log('New to Git changed now');
 }
